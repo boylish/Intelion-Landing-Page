@@ -38,7 +38,7 @@ const HowItWorks = () => {
     <section 
       id="how-it-works" 
       ref={sectionRef}
-      className="section-padding bg-white pt-5"
+      className="section-padding bg-white p-8"
     >
       <div className="container mx-auto px-4">
         <div className="text-center max-w-3xl mx-auto mb-16">

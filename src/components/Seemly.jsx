@@ -55,10 +55,10 @@ const Seemly = () => {
     <section 
       id="features" 
       ref={sectionRef}
-      className="section-padding pt-5  bg-white"
+      className="section-padding p-5  bg-white"
     >
       <div className=" container  w-[100%]   mx-auto px-4">
-        <div className="text-center h-[20vh]   p-15  rounded-xl bg-gradient-to-r from-blue-600 to-indigo-500 max-w-5xl mx-auto mb-16">
+        <div className="text-center h-[20vh]  flex flex-col items-center justify-center  rounded-xl bg-gradient-to-r from-blue-600 to-indigo-500 max-w-5xl mx-auto mb-16">
           <h2 
             ref={headingRef}
             className="text-3xl md:text-4xl font-bold mb-4 text-white"

@@ -13,7 +13,7 @@ const CTA = () => {
     <section
       id="contact"
       ref={sectionRef}
-      className="section-padding bg-gradient-to-br pt-5 from-blue-50 to-indigo-50"
+      className="section-padding bg-gradient-to-br p-10 from-blue-50 to-indigo-50"
     >
       <div className="container mx-auto px-4 flex gap-8 flex-col md:flex-row items-center justify-between">
         <div ref={contentRef} className="md:w-1/2 mb-8 md:mb-0 text-left">

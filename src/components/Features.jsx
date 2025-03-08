@@ -130,7 +130,7 @@ const Features = () => {
     <section
       id="features"
       ref={sectionRef}
-      className="section-padding pt-5  bg-mesh-gradient"
+      className="section-padding p-5  bg-mesh-gradient"
     >
       <div className="container mx-auto px-4">
         <div className="text-center max-w-3xl mx-auto mb-16">
